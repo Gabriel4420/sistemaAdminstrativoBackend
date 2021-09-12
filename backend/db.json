@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "caneta azul",
+      "price": 2.5,
+      "id": 1
+    },
+    {
+      "name": "macbook-pro",
+      "price": 12.5,
+      "id": 2
+    },
+    {
+      "name": "sansung a40",
+      "price": 1.5,
+      "id": 3
+    },
+    {
+      "name": "Notebook Samsung",
+      "price": "3900",
+      "id": 4
+    },
+    {
+      "name": "Batata Ships",
+      "price": "5.90",
+      "id": 5
+    }
+  ]
+}
